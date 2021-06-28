@@ -1,0 +1,9 @@
+/* classe do item do menu */
+.menu__item{
+    list-style: none;/* estilo da lista */
+}
+
+/* classe do item do menu ultimo elemento*/
+.menu__item:last-child .menu__link{
+    margin-right: 0;/* margem para direita */
+}

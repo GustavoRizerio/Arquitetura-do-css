@@ -1,0 +1,19 @@
+/* classe do link de menu */
+.menu__link{
+    color:#808080;/* cor da fonte */
+    margin-right: 1.25rem;/* margem para esquerda */
+    text-decoration: none;/* sem decoraçao no texto */
+    text-transform: lowercase;/*  como capitalizar um texto de um elemento,letra minuscula */
+}
+
+/* classe do link do menu para selecionar um item especifico */
+.menu__link.ativo{
+    color: black; /* cor da fonte preta */
+    font-weight: bold;/* peso da fonte */
+}
+
+/* classe do link do menu para quando mouse tiver em cima do elemento */
+.menu__link:hover{
+    text-decoration: underline;/* decoraçao do texto colocar uma linha em baixo */
+
+}
