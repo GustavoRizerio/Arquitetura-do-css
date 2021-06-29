@@ -7,7 +7,7 @@ curso de arquitetura da Alura.
 
 <div align="center">
 
-The **index.html** is a project made with HTML5 and CSS3
+The **arquitetura do css** is a project made with HTML5 and CSS3
 </div> 
 
 ## :rocket: Technology
